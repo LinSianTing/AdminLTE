@@ -1,3 +1,10 @@
+Note By LangraceTech
+============
+
+Date 2024.02.11
+因為工作室開發專案(NopCommerce 4.70.0)需要使用AdminLTE v3.0.4版本，所以分叉獨立版本分支出來管理。 
+同時配合NopCommerce 4.70.0版本進行開發。
+
 Introduction
 ============
 
