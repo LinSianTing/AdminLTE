@@ -5,6 +5,15 @@ Date 2024.02.11
 因為工作室開發專案(NopCommerce 4.70.0)需要使用AdminLTE v3.0.4版本，所以分叉獨立版本分支出來管理。 
 同時配合NopCommerce 4.70.0版本進行開發。
 
+記得將 npm build dev 的結果，複製到 NopCommerce 4.70.0 的\src\Presentation\Nop.Web\wwwroot\lib\adminLTE
+<img width="1191" alt="image" src="https://github.com/user-attachments/assets/6d2cd13c-7d9d-4012-ad22-b90a4cb12c24" />
+<img width="241" alt="image" src="https://github.com/user-attachments/assets/ea3a1f3a-a6aa-44ed-9678-8ab6b0a6dc42" />
+
+AdminLTE 運行指令
+============
+#### npm build dev
+#### npm run dev
+
 Introduction
 ============
 
